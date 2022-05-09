@@ -11,5 +11,11 @@ When the company receives a loan application, the company has to make a decision
     2) Univariate Analysis.
     3) Bivariate Analysis.
     4) Results
+    
+## Technologies Used
+- Pandas - version 1.2.4
+- matplotlib - version 3.3.4
+- seaborn - version 0.11.1
+
 ## Group Facilitator:
       . Harpreet Singh
